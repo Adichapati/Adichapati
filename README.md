@@ -8,38 +8,30 @@
 
 [![mail](https://img.shields.io/badge/mail-adithyaraj.kanayamkott%40gmail.com-00ff41?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=00ff41)](mailto:adithyaraj.kanayamkott@gmail.com)
 
-## <samp>$ whoami</samp>
+## <samp>$ neofetch</samp>
 
-Adithya Raj — CSE undergrad building at the intersection of **AI/ML** and
-**full-stack development**. Happiest shipping end-to-end, from model to interface.
+<img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/neofetch.svg" alt="neofetch — adithya raj (sprake): arch linux btw · cse undergrad · ai/ml × full-stack, model to interface · llms, agent workflows, aws cert · esp32-s3 side projects · always shipping" width="640" />
 
-```text
-$ cat status.log
-▸ deep in LLMs, agent workflows, and ML-driven apps
-▸ chasing an AWS certification
-▸ tinkering with ESP32-S3 boards on the side
-▸ btw, i use arch
+## <samp>$ cat stack.yml</samp>
+
+```yaml
+languages: [python, c++, javascript, typescript]
+ai_ml:     [pytorch, tensorflow, scikit-learn, huggingface, pandas, numpy]
+web:       [react, node.js, fastapi, tailwind]
+cloud_hw:  [aws, docker, git, linux, esp32-s3]
 ```
 
-## <samp>$ cat stack.txt</samp>
+## <samp>$ tree projects/</samp>
 
-```text
-languages    ▸ python · c++ · javascript · typescript
-ai / ml      ▸ pytorch · tensorflow · scikit-learn · hugging face · pandas · numpy
-web          ▸ react · node.js · fastapi · tailwind
-cloud & hw   ▸ aws · docker · git · linux · esp32-s3
-```
-
-## <samp>$ ls projects/</samp>
-
-| project | what it is |
-|:--------|:-----------|
-| [**ARX**](https://github.com/Adichapati/ARX) | local-first Minecraft ops platform — dashboard, CLI, and Gemma for ops |
-| [**ThroughNet**](https://github.com/Adichapati/ThroughNet) | through-wall human sensing from ordinary WiFi (ESP32-S3 CSI) |
-| [**LiquiSight**](https://github.com/Adichapati/LiquiSight) | finance copilot |
-| [**Athena**](https://github.com/Adichapati/Athena) | claude who? |
-| [**Recon**](https://github.com/Adichapati/Recon) | movie tracker, plus a [browser extension](https://github.com/Adichapati/Recon_ext) |
-| [**Muud**](https://github.com/Adichapati/Muud) | music & mood recognition |
+<pre>
+projects/
+├── <a href="https://github.com/Adichapati/ARX">ARX</a>             local-first minecraft ops platform — dashboard · cli · gemma
+├── <a href="https://github.com/Adichapati/ThroughNet">ThroughNet</a>      through-wall human sensing from ordinary wifi (esp32-s3 csi)
+├── <a href="https://github.com/Adichapati/LiquiSight">LiquiSight</a>      finance copilot
+├── <a href="https://github.com/Adichapati/Athena">Athena</a>          claude who?
+├── <a href="https://github.com/Adichapati/Recon">Recon</a>           movie tracker (+ <a href="https://github.com/Adichapati/Recon_ext">browser extension</a>)
+└── <a href="https://github.com/Adichapati/Muud">Muud</a>            music &amp; mood recognition
+</pre>
 
 ## <samp>$ ./snake --eat-contributions</samp>
 
