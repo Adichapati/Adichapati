@@ -2,16 +2,9 @@
 <!--  sprake @ github ~ a terminal session                   -->
 <!-- ======================================================= -->
 
-```diff
-+                          _
-+ ___  _ __   _ __   __ _ | | __  ___
-+/ __|| '_ \ | '__| / _` || |/ / / _ \
-+\__ \| |_) || |   | (_| ||   < |  __/
-+|___/| .__/ |_|    \__,_||_|\_\ \___|
-+     |_|
-```
+<img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/banner.svg" alt="SPRAKE — animated terminal banner" width="640" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00FF41&vCenter=true&width=480&height=30&lines=AI%2FML+engineer+%C2%B7+full-stack+developer;linux+%2B+open-source+%2B+esp32-s3+tinkerer;currently+chasing+an+AWS+certification" alt="AI/ML engineer · full-stack developer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=3000&pause=1200&color=00FF41&vCenter=true&width=480&height=34&lines=AI%2FML+engineer+%C2%B7+full-stack+developer;linux+%2B+open-source+%2B+esp32-s3+tinkerer;currently+chasing+an+AWS+certification" alt="AI/ML engineer · full-stack developer" />
 
 [![mail](https://img.shields.io/badge/mail-adithyaraj.kanayamkott%40gmail.com-00ff41?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=00ff41)](mailto:adithyaraj.kanayamkott@gmail.com)
 
