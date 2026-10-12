@@ -39,8 +39,6 @@ projects/
 
 <img height="170" src="https://streak-stats.demolab.com/?user=Adichapati&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=1c2128" alt="contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adichapati&bg_color=0d1117&color=8b949e&line=00ff41&point=39d353&area=true&area_color=00ff41&hide_border=true&hide_title=true&radius=6" alt="contribution graph" />
-
 ## <samp>$ exit</samp>
 
 > Try, and try again.
