@@ -1,16 +1,12 @@
-<!-- ======================================================= -->
-<!--  sprake @ github ~ a terminal session                   -->
-<!-- ======================================================= -->
+<img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/banner.svg" alt="sprake" width="640" />
 
-<img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/banner.svg" alt="SPRAKE — animated terminal banner" width="640" />
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=3000&pause=1200&color=00FF41&vCenter=true&width=480&height=34&lines=AI%2FML+engineer+%C2%B7+full-stack+developer;linux+%2B+open-source+%2B+esp32-s3+tinkerer;currently+chasing+an+AWS+certification" alt="AI/ML engineer · full-stack developer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=3000&pause=1200&color=00FF41&vCenter=true&width=480&height=34&lines=AI%2FML+engineer+%C2%B7+full-stack+developer;linux+%C2%B7+open+source+%C2%B7+esp32-s3" alt="AI/ML engineer · full-stack developer" />
 
 [![mail](https://img.shields.io/badge/mail-adithyaraj.kanayamkott%40gmail.com-00ff41?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=00ff41)](mailto:adithyaraj.kanayamkott@gmail.com)
 
 ## <samp>$ neofetch</samp>
 
-<img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/neofetch.svg" alt="neofetch — adithya raj (sprake): arch linux btw · cse undergrad · ai/ml × full-stack, model to interface · llms, agent workflows, aws cert · esp32-s3 side projects · always shipping" width="640" />
+<img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/neofetch.svg" alt="adithya raj (sprake), arch linux, cse undergrad, ai/ml and full-stack, esp32-s3" width="640" />
 
 ## <samp>$ cat stack.yml</samp>
 
@@ -25,8 +21,8 @@ cloud_hw:  [aws, docker, git, linux, esp32-s3]
 
 <pre>
 projects/
-├── <a href="https://github.com/Adichapati/ARX">ARX</a>             local-first minecraft ops platform — dashboard · cli · gemma
-├── <a href="https://github.com/Adichapati/ThroughNet">ThroughNet</a>      through-wall human sensing from ordinary wifi (esp32-s3 csi)
+├── <a href="https://github.com/Adichapati/ARX">ARX</a>             local-first minecraft ops platform
+├── <a href="https://github.com/Adichapati/ThroughNet">ThroughNet</a>      through-wall human sensing from wifi
 ├── <a href="https://github.com/Adichapati/LiquiSight">LiquiSight</a>      finance copilot
 ├── <a href="https://github.com/Adichapati/Athena">Athena</a>          claude who?
 ├── <a href="https://github.com/Adichapati/Recon">Recon</a>           movie tracker (+ <a href="https://github.com/Adichapati/Recon_ext">browser extension</a>)
@@ -49,10 +45,4 @@ projects/
 
 ## <samp>$ exit</samp>
 
-Open to interesting projects, research collaborations, and AI/ML opportunities —
-reach me at [adithyaraj.kanayamkott@gmail.com](mailto:adithyaraj.kanayamkott@gmail.com).
-
-```text
-logout
-Connection to github.com/Adichapati closed.
-```
+> Try, and try again.
