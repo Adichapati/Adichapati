@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/Adichapati/Adichapati/main/assets/banner.svg" alt="sprake" width="640" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&duration=3000&pause=1200&color=00FF41&vCenter=true&width=480&height=34&lines=AI%2FML+engineer+%C2%B7+full-stack+developer;linux+%C2%B7+open+source+%C2%B7+esp32-s3" alt="AI/ML engineer · full-stack developer" />
-
 [![mail](https://img.shields.io/badge/mail-adithyaraj.kanayamkott%40gmail.com-00ff41?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=00ff41)](mailto:adithyaraj.kanayamkott@gmail.com)
 
 ## <samp>$ neofetch</samp>
